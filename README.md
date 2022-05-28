@@ -1,4 +1,4 @@
-"# Deep-Learning-Model" 
+"Yoga Pose Estimation using Mediapipe" 
 Proposed a method for automatically detecting yoga poses in real-time or the recorded videos. 
 The dataset can be found at https://archive.org/details/YogaVid. 
 To detect all landmark points in the video frame by frame, we used Mediapipe. 
