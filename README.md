@@ -6,13 +6,17 @@ A CSV file was created for all four folders, which contained asanas such as Padm
 This process was repeated for all four folders. 
 To make the prediction, we used the Multilayer Perceptron (MLP) classifier and Long Short-Term Memory (LSTM) to train the model.
 #Mediapipe #HumanPoseEstimation #YogaPose #LSTM #MLP
+</br>
+</br>
+<b>Detecting Padmasana</b>
+<img src="images/Screenshot (21).png">
 
-Detecting Padmasana
-![](images/github-screenshot(21).png)
+</br>
+</br>
+<b>Detecting Tadasana</b>
+<img src="images/Screenshot (19).png">
 
-Detecting Tadasana
-![](images/github-screenshot(19).png)
-
-Detecting Vrikshasana
-![](images/github-screenshot(20).png)
-
+</br>
+</br>
+<b>Detecting Vrikshasana</b>
+<img src="images/Screenshot (20).png">
